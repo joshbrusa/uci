@@ -1,1 +1,3 @@
-# uci-portfolio
+# UCI
+
+UCI undergraduate portfolio.
